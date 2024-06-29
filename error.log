@@ -1,0 +1,31 @@
+[ERROR -> None ] - 2024-05-20 18:09:22: PromptsAWS.getModelInput() takes 2 positional arguments but 6 were given
+[ERROR -> None ] - 2024-05-20 18:09:22: PromptsAWS.getText() missing 1 required positional argument: '_body'
+[ERROR -> None ] - 2024-05-20 18:10:50: PromptsAWS.getModelInput() takes 2 positional arguments but 6 were given
+[ERROR -> None ] - 2024-05-20 18:10:50: PromptsAWS.getModelInput() takes 2 positional arguments but 7 were given
+[ERROR -> None ] - 2024-05-20 18:12:07: PromptsAWS.getModelInput() takes 2 positional arguments but 7 were given
+[ERROR -> None ] - 2024-05-20 20:17:50: Debugger.checkoutTimmer() missing 1 required positional argument: '_nameFunction'
+[ERROR -> None ] - 2024-05-21 12:05:36: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:06:06: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:06:46: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:08:05: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:11:03: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:11:11: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:12:29: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:12:49: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:17:12: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:18:03: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:19:12: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:20:00: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:22:18: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:23:20: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:24:37: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:28:10: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:29:02: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:29:20: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:29:44: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:30:28: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:31:13: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 12:32:21: sequence item 0: expected str instance, NoneType found
+[ERROR -> None ] - 2024-05-21 13:22:01: 'Process' object has no attribute 'getText'
+[ERROR -> None ] - 2024-05-21 13:24:57: 'Process' object has no attribute 'getText'
+[ERROR -> None ] - 2024-05-21 20:46:39: 'HtmlParser' object has no attribute '_HtmlParser__document'

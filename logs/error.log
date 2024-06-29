@@ -1,0 +1,4 @@
+[ERROR -> None ] - 2024-06-29 19:33:30: object.__init__() takes exactly one argument (the instance to initialize)
+[ERROR -> None ] - 2024-06-29 19:33:38: object.__init__() takes exactly one argument (the instance to initialize)
+[ERROR -> None ] - 2024-06-29 19:33:49: Invalid args for response field! Hint: check that <class 'src.routes.aws.IRequest'> is a valid Pydantic field type. If you are using a return type annotation that is not a valid Pydantic field (e.g. Union[Response, dict, None]) you can disable generating the response model from the type annotation with the path operation decorator parameter response_model=None. Read more: https://fastapi.tiangolo.com/tutorial/response-model/
+[ERROR -> None ] - 2024-06-29 19:34:42: name 'Form' is not defined
